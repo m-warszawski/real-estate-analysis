@@ -1,0 +1,91 @@
+powierzchnia,liczba_pokoi,lokalizacja,cena,typ,latitude,longitude
+85,3,Centrum,450000,Apartament,52.2297,21.0122
+150,4,Przedmieścia,800000,Dom jednorodzinny,52.4064,16.9252
+70,2,Centrum,380000,Apartament,50.0647,19.9450
+180,5,Wieś,920000,Dom jednorodzinny,51.1079,17.0385
+95,3,Przedmieścia,620000,Apartament,54.3520,18.6466
+110,4,Centrum,710000,Dom jednorodzinny,52.2297,21.0122
+65,2,Przedmieścia,360000,Apartament,52.4064,16.9252
+200,6,Wieś,980000,Dom jednorodzinny,50.0647,19.9450
+120,4,Centrum,750000,Apartament,51.1079,17.0385
+90,3,Przedmieścia,580000,Dom jednorodzinny,54.3520,18.6466
+75,2,Centrum,400000,Apartament,52.2297,21.0122
+160,5,Przedmieścia,850000,Dom jednorodzinny,52.4064,16.9252
+55,1,Centrum,320000,Apartament,50.0647,19.9450
+195,6,Wieś,930000,Dom jednorodzinny,51.1079,17.0385
+85,3,Przedmieścia,610000,Apartament,54.3520,18.6466
+100,4,Centrum,690000,Dom jednorodzinny,52.2297,21.0122
+60,2,Przedmieścia,350000,Apartament,52.4064,16.9252
+210,7,Wieś,990000,Dom jednorodzinny,50.0647,19.9450
+130,4,Centrum,780000,Apartament,51.1079,17.0385
+80,3,Przedmieścia,570000,Dom jednorodzinny,54.3520,18.6466
+75,2,Centrum,380000,Apartament,52.2297,21.0122
+180,5,Przedmieścia,880000,Dom jednorodzinny,52.4064,16.9252
+65,2,Centrum,350000,Apartament,50.0647,19.9450
+170,5,Wieś,940000,Dom jednorodzinny,51.1079,17.0385
+100,3,Przedmieścia,640000,Apartament,54.3520,18.6466
+115,4,Centrum,730000,Dom jednorodzinny,52.2297,21.0122
+70,2,Przedmieścia,360000,Apartament,52.4064,16.9252
+220,7,Wieś,1020000,Dom jednorodzinny,50.0647,19.9450
+125,4,Centrum,770000,Apartament,51.1079,17.0385
+95,3,Przedmieścia,590000,Dom jednorodzinny,54.3520,18.6466
+80,2,Centrum,410000,Apartament,52.2297,21.0122
+170,5,Przedmieścia,860000,Dom jednorodzinny,52.4064,16.9252
+60,1,Centrum,340000,Apartament,50.0647,19.9450
+205,6,Wieś,970000,Dom jednorodzinny,51.1079,17.0385
+90,3,Przedmieścia,620000,Apartament,54.3520,18.6466
+105,4,Centrum,720000,Dom jednorodzinny,52.2297,21.0122
+65,2,Przedmieścia,370000,Apartament,52.4064,16.9252
+215,7,Wieś,980000,Dom jednorodzinny,50.0647,19.9450
+135,4,Centrum,800000,Apartament,51.1079,17.0385
+85,3,Przedmieścia,560000,Dom jednorodzinny,54.3520,18.6466
+100,3,Centrum,450000,Apartament,52.2297,21.0122
+155,4,Przedmieścia,790000,Dom jednorodzinny,52.4064,16.9252
+75,2,Centrum,370000,Apartament,50.0647,19.9450
+185,5,Wieś,910000,Dom jednorodzinny,51.1079,17.0385
+95,3,Przedmieścia,630000,Apartament,54.3520,18.6466
+110,4,Centrum,700000,Dom jednorodzinny,52.2297,21.0122
+65,2,Przedmieścia,350000,Apartament,52.4064,16.9252
+200,6,Wieś,970000,Dom jednorodzinny,50.0647,19.9450
+120,4,Centrum,760000,Apartament,51.1079,17.0385
+90,3,Przedmieścia,570000,Dom jednorodzinny,54.3520,18.6466
+75,2,Centrum,390000,Apartament,52.2297,21.0122
+160,5,Przedmieścia,840000,Dom jednorodzinny,52.4064,16.9252
+55,1,Centrum,310000,Apartament,50.0647,19.9450
+195,6,Wieś,920000,Dom jednorodzinny,51.1079,17.0385
+85,3,Przedmieścia,600000,Apartament,54.3520,18.6466
+100,4,Centrum,680000,Dom jednorodzinny,52.2297,21.0122
+60,2,Przedmieścia,340000,Apartament,52.4064,16.9252
+210,7,Wieś,980000,Dom jednorodzinny,50.0647,19.9450
+130,4,Centrum,770000,Apartament,51.1079,17.0385
+80,3,Przedmieścia,560000,Dom jednorodzinny,54.3520,18.6466
+75,2,Centrum,370000,Apartament,52.2297,21.0122
+180,5,Przedmieścia,870000,Dom jednorodzinny,52.4064,16.9252
+65,2,Centrum,340000,Apartament,50.0647,19.9450
+170,5,Wieś,930000,Dom jednorodzinny,51.1079,17.0385
+100,3,Przedmieścia,630000,Apartament,54.3520,18.6466
+115,4,Centrum,720000,Dom jednorodzinny,52.2297,21.0122
+70,2,Przedmieścia,350000,Apartament,52.4064,16.9252
+220,7,Wieś,1010000,Dom jednorodzinny,50.0647,19.9450
+125,4,Centrum,760000,Apartament,51.1079,17.0385
+95,3,Przedmieścia,580000,Dom jednorodzinny,54.3520,18.6466
+80,2,Centrum,400000,Apartament,52.2297,21.0122
+170,5,Przedmieścia,850000,Dom jednorodzinny,52.4064,16.9252
+60,1,Centrum,330000,Apartament,50.0647,19.9450
+205,6,Wieś,960000,Dom jednorodzinny,51.1079,17.0385
+90,3,Przedmieścia,610000,Apartament,54.3520,18.6466
+105,4,Centrum,710000,Dom jednorodzinny,52.2297,21.0122
+65,2,Przedmieścia,360000,Apartament,52.4064,16.9252
+215,7,Wieś,970000,Dom jednorodzinny,50.0647,19.9450
+135,4,Centrum,790000,Apartament,51.1079,17.0385
+85,3,Przedmieścia,550000,Dom jednorodzinny,54.3520,18.6466
+100,3,Centrum,440000,Apartament,52.2297,21.0122
+155,4,Przedmieścia,780000,Dom jednorodzinny,52.4064,16.9252
+75,2,Centrum,360000,Apartament,50.0647,19.9450
+185,5,Wieś,900000,Dom jednorodzinny,51.1079,17.0385
+95,3,Przedmieścia,620000,Apartament,54.3520,18.6466
+110,4,Centrum,690000,Dom jednorodzinny,52.2297,21.0122
+65,2,Przedmieścia,340000,Apartament,52.4064,16.9252
+200,6,Wieś,960000,Dom jednorodzinny,50.0647,19.9450
+120,4,Centrum,750000,Apartament,51.1079,17.0385
+90,3,Przedmieścia,560000,Dom jednorodzinny,54.3520,18.6466
