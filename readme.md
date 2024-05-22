@@ -63,6 +63,8 @@ Install the required Python libraries using `requirements.txt`:
 
 ## Functionality Details
 
+<img width="960" alt="Screenshot_1" src="https://github.com/m-warszawski/real-estate-analysis/assets/92052651/ee12fdcf-7203-4cb6-ab78-e8f198fe0d87">
+
 ### Data Loading
 - **Browse and Load Data**: Select and load data from a CSV file into the application.
 
@@ -82,3 +84,4 @@ Install the required Python libraries using `requirements.txt`:
 
 ### Data Editing
 - **View and Edit Data**: Open a new window to view and edit the data directly within the application.
+
