@@ -29,28 +29,22 @@ The Real Estate Analysis Application is a comprehensive tool for analyzing real 
 
 ## Installation
 
-### Using setup.py
-
-1. Clone the repository:
+Clone the repository:
     ```sh
     git clone https://github.com/yourusername/real-estate-analysis-app.git
     cd real-estate-analysis-app
     ```
+    
+### Using setup.py
 
-2. Install the package using `setup.py`:
+Install the package using `setup.py`:
     ```sh
     python setup.py install
     ```
 
 ### Using requirements.txt
 
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/yourusername/real-estate-analysis-app.git
-    cd real-estate-analysis-app
-    ```
-
-2. Install the required Python libraries using `requirements.txt`:
+Install the required Python libraries using `requirements.txt`:
     ```sh
     pip install -r requirements.txt
     ```
